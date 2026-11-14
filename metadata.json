@@ -1,0 +1,6 @@
+{
+  "name": "INVEST INTELLIGENCE",
+  "description": "Plataforma SaaS de inteligência de investimentos, análise fundamentalista, valuation e IA para ações da B3 (Brasil) e NYSE/NASDAQ (EUA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
